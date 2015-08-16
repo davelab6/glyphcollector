@@ -3,5 +3,6 @@
 -use pyinstaller to package the app. cross-platform and compatible with pyqt and opencv. https://github.com/pyinstaller/pyinstaller/wiki
 -implement autotracing with potrace. http://potrace.sourceforge.net/ and https://github.com/flupke/pypotrace
 -build ufo files out of the autotraced output. http://robofab.com/
+-try tesseract OCR instead of OpenCV https://github.com/tesseract-ocr
 
 
